@@ -1,0 +1,170 @@
+*{
+    margin: 0;   
+    font-family:sans-serif;
+   }
+   .header{
+   background-image: url(../images/banner/banner3.png);
+   height: 800px;
+   
+   background-attachment:;
+   background-size: 100% 100%;
+   background-position: center;
+   }
+   .title{
+      text-align: right;
+      padding-top: 216px;
+      
+   }
+   .nav-title{
+   padding-right: 230px;
+   padding-bottom: 28px;
+   padding-left: 1400px;
+       color: #FFFFFF;
+       font-weight: 700;
+   font-size: 65px;
+   }
+   .nav-description{
+       padding-left: 1450px;
+       padding-right: 213px;
+       padding-bottom: 28px;
+       font-weight: 400;
+       font-size: 16px;
+       color: #FFFFFF;
+   }
+   .nav-btn{
+       margin-left: 1400px;
+       margin-right: 230px;
+       font-weight: 600;
+       font-size: 20px;
+       color: #005FAC;
+       width: 160px;
+   height: 64px;
+   }
+   .second{
+       margin-top: 0;
+       margin-left: 337px;
+       margin-left: 379PX;
+   
+       display: flex;
+       align-items: center;
+   }
+   .img{
+    margin-right: 84px;
+   }
+   .second-2{
+       margin-top:0;
+       margin-left: 237px;
+       margin-right: 279px;
+   }
+   .second-title{
+       padding-right: 419px;
+       padding-left: 87px;
+       padding-top: 239px;
+       padding-bottom: 22px;
+       font-weight: 700;
+       font-size: 40px;
+   }
+   .second-description{
+       padding-right: 219px;
+       padding-left: 87px;
+       margin-top: 22px;
+       margin-bottom: 18px;
+       font-weight: 400;
+       font-size: 16px;
+   }
+   .list{
+       list-style-type:none;
+       padding-right: 27px;
+       padding-left: 87px;
+   }
+   .third{
+      margin: 260px 229px 230px 131px;
+   }
+   .icon{
+       display: flex;
+       align-items: center;
+       justify-content: space-around;
+
+   }
+   .third-title{
+       font-weight: 700;
+       font-size: 40px;
+       margin-left: 765px;
+       margin-right: 655px;
+       margin-bottom: 50px;
+       
+   }
+   .fourth{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: 100% 100%;
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+   }   
+   .fourth-title{
+    font-weight: 700;
+    font-size: 40px;
+    padding: 59px 617px 24px 64px;
+
+   }
+   .fourth-btn{
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+     height: 64px;
+     font-size: 20px;
+      margin-left: 64px;
+   }
+   .last{
+    background: #151414;
+   display: flex;
+   }
+   .last-1{
+    padding-top: 130px;
+    padding-left: 230px;
+    padding-bottom: 118px;
+    color: #F8F8F8;
+
+   }
+   .last-title{
+    font-weight: 700;
+font-size: 45px;
+padding-bottom: 15px;   
+}
+.p-1{
+    font-weight: 400;
+font-size: 16px;
+padding-bottom: 24px;
+}
+.p-2{
+    padding-bottom: 16px;
+}
+.p-3{
+    padding-bottom: 32px;
+}
+.last-2{
+    padding: 141px 219px 231px 1056px;
+}
+.s-1{
+    font-weight: 600;
+font-size: 25px;
+color: #FFFFFF;
+padding-right: 431px;
+padding-bottom: 31px;
+padding-right: 413px;
+}
+#email{
+    margin-right: 211px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    padding: 21px 158px 22px 21px;
+}
+#subscribe{
+    padding: 20px 36px;
+   margin-top: 25px;
+    margin-right: 365px;
+    border-radius: 8px;
+}
